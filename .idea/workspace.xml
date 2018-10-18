@@ -130,6 +130,9 @@
       <find>get_page_index</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,6 +150,7 @@
     <option name="width" value="1302" />
     <option name="height" value="1532" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -282,14 +286,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2970451" visible="true" weight="0.36038187" />
       <window_info id="Structure" order="1" sideWeight="0.7029549" side_tool="true" weight="0.17661098" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4043546" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4049844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
