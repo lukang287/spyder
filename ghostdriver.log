@@ -1,0 +1,27 @@
+[INFO  - 2018-10-17T16:11:46.870Z] GhostDriver - Main - running on port 54570
+[INFO  - 2018-10-17T16:11:51.222Z] Session [5b4b7730-d227-11e8-965e-aff8c1915d7f] - page.settings - {"XSSAuditingEnabled":false,"dpi":192,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/602.1 (KHTML, like Gecko) PhantomJS/2.5.0-development Version/9.0 Safari/602.1","webSecurityEnabled":true}
+[INFO  - 2018-10-17T16:11:51.223Z] Session [5b4b7730-d227-11e8-965e-aff8c1915d7f] - page.customHeaders:  - []
+[INFO  - 2018-10-17T16:11:51.223Z] Session [5b4b7730-d227-11e8-965e-aff8c1915d7f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.5.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-17T16:11:51.223Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5b4b7730-d227-11e8-965e-aff8c1915d7f
+[ERROR - 2018-10-17T16:11:52.121Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792712076
+[ERROR - 2018-10-17T16:11:53.693Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792713655
+[ERROR - 2018-10-17T16:11:55.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792715074
+[ERROR - 2018-10-17T16:11:56.491Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792716442
+[ERROR - 2018-10-17T16:11:57.899Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792717842
+[ERROR - 2018-10-17T16:11:59.320Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792719259
+[ERROR - 2018-10-17T16:12:00.710Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792720664
+[ERROR - 2018-10-17T16:12:02.365Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792722334
+[ERROR - 2018-10-17T16:12:03.744Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792723695
+[ERROR - 2018-10-17T16:12:05.167Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792725121
+[ERROR - 2018-10-17T16:12:06.571Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792726516
+[ERROR - 2018-10-17T16:12:08.006Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792727960
+[ERROR - 2018-10-17T16:12:09.415Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792729360
+[ERROR - 2018-10-17T16:12:10.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792730812
+[ERROR - 2018-10-17T16:12:12.238Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792732204
+[ERROR - 2018-10-17T16:12:13.949Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792733904
+[ERROR - 2018-10-17T16:12:15.334Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792735287
+[ERROR - 2018-10-17T16:12:16.761Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792736710
+[ERROR - 2018-10-17T16:12:18.177Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792738122
+[ERROR - 2018-10-17T16:12:19.567Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792739519
+[ERROR - 2018-10-17T16:12:21.120Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792741071
+[ERROR - 2018-10-17T16:12:22.629Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539792742587
